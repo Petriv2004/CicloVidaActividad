@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Vueltas Mascota</string>
+    <string name="start">Iniciar Recorrido / Continuar Vuelta</string>
+    <string name="stop">Registrar Vuelta</string>
+    <string name="reset">Formatear Valores</string>
+    <string name="title">Tiempos Parciales:</string>
+    <string name="vuelta">Reestablecer Vuelta</string>
+    <string name="pausar">Tomar un descanso en vuelta</string>
+</resources>
